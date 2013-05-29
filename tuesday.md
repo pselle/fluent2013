@@ -6,7 +6,7 @@
 
 ### The Real-time Web with Node.js
 
-(http://go.codeschool.com/node-fluent)[Get the class]
+Get the class http://go.codeschool.com/node-fluent
 
 ### Windows 8 App Building Boot Camp
 
