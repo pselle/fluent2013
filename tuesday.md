@@ -2,6 +2,8 @@
 
 ## Morning Session
 
+Performance bit.ly/fluent-perf 
+
 ## Afternoon Session
 
 ### The Real-time Web with Node.js
