@@ -25,3 +25,10 @@ http://bost.ocks.org/mike/chart/
 - Extensible
 - Composable
 -- Combine into other charts
+
+d3.Chart
+from the Miso project
+
+Show, Don't Tell
+
+http://chimera.labs.oreilly.com/books/1234000001701/

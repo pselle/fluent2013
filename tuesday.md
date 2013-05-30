@@ -4,6 +4,8 @@
 
 Performance bit.ly/fluent-perf 
 
+http://www.igvita.com/slides/2013/fluent-perfcourse.pdf
+
 ## Afternoon Session
 
 ### The Real-time Web with Node.js
