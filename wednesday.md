@@ -1,6 +1,6 @@
 # Wednesday
 
-## Keynote
+## Keynotes/Plenary
 
 ### Brendan Eich
 
