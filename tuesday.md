@@ -10,10 +10,8 @@ http://www.igvita.com/slides/2013/fluent-perfcourse.pdf
 
 ### The Real-time Web with Node.js
 
-Get the class http://go.codeschool.com/node-fluent
-
-### Windows 8 App Building Boot Camp
+Get the class for free http://go.codeschool.com/node-fluent
 
 ### Developing Mobile Applications with PhoneGap
 
-### Building a Webapp Step-by-Step 
+Best tool learned: Ripple emulator https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc
